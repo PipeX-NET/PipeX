@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/Test.PipeX.Transport/Test.PipeX.Transport.csproj" />
+  </Folder>
+  <Project Path="PipeX.Transport/PipeX.Transport.csproj" />
+</Solution>
